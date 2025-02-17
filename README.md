@@ -1,3 +1,4 @@
 # TOP landing page project
 
-It focuses on HTML and CSS knowledge.
+- It is the 2nd project of TOP.
+- It focuses on HTML and CSS knowledge.
